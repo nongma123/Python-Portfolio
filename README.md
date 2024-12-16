@@ -33,4 +33,4 @@ The project successfully segmented customers into distinct clusters, enabling th
 
 ---
 
-
+**Thank you for visiting my portfolio!** 🚀

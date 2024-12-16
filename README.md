@@ -6,23 +6,15 @@ Welcome to my Python Portfolio! This repository showcases a diverse collection o
 
 ## 🚀 **Projects**
 
-### 1. [Louvre Museum Sentiment Analysis](https://github.com/nongma123/Sentiment_Analysis_Dashboard)
+### 2. [Bank Churn Analysis (Classification)](https://github.com/nongma123/Bank_Churn_Analysis)
 
-A Python-powered sentiment analysis project that examines customer reviews of the Louvre Museum. The project highlights sentiment distribution, review trends, and common themes through detailed analysis and visualizations.
-
-![Louvre Dashboard](/sentiment_analysis_preview.png)
+A classification project aimed at reducing customer churn for the Bank of Mavenland by identifying clients at high risk of leaving. This project uses data analysis and machine learning to create actionable insights for retention strategies.
 
 **Key Features**:
-- **Sentiment Analysis**: Classifies reviews into Positive, Neutral, and Negative categories using Python's NLP libraries.
-- **Data Insights**: Analyzes monthly review trends, word frequencies, and sources of reviews.
-- **Interactive Visualizations**: Displays results through dynamic charts and visual tools created with Matplotlib and Plotly.
-- **Automation Pipeline**: Streamlined processes for data ingestion, cleaning, and visualization.
+- **Data Exploration**: Investigated patterns and anomalies in customer behavior.
+- **Model Building**: Developed and compared Logistic Regression and Random Forest models.
+- **Model Evaluation**: Selected the best-performing model based on accuracy and precision.
+- **Technologies Used**: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn, Jupyter Notebook.
 
 ---
 
-## 📂 **How to Use**
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/nongma123/PythonPortfolio.git
-   cd PythonPortfolio

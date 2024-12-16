@@ -17,7 +17,7 @@ A classification project aimed at reducing customer churn for the Bank of Mavenl
 - **Technologies Used**: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn, Jupyter Notebook.
 
 ---
-### 1. [Customer Segmentation Analysis](https://github.com/nongma123/Bank-Customer-Segmentation)
+### 🔍 2. [Customer Segmentation Analysis](https://github.com/nongma123/Bank-Customer-Segmentation)
 
 A clustering project focused on segmenting the Bank of Mavenland’s customers into distinct groups. The goal was to identify patterns in customer data and provide tailored recommendations for products or services based on each segment.
 

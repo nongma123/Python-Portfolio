@@ -1,4 +1,4 @@
-# 🐍 Python Portfolio
+# ⚙️🐍 Python Portfolio
 
 Welcome to my Python Portfolio! This repository showcases a diverse collection of Python projects, ranging from data analysis to automation and machine learning. Each project is a testament to my passion for coding and solving real-world problems with Python.
 

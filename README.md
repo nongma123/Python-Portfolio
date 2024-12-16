@@ -6,7 +6,7 @@ Welcome to my Python Portfolio! This repository showcases a diverse collection o
 
 ## 🚀 **Projects**
 
-### 1. [Bank Churn Analysis (Classification)](https://github.com/nongma123/Bank-Customer-Classification)
+### 📊 1. [Bank Churn Analysis (Classification)](https://github.com/nongma123/Bank-Customer-Classification)
 
 A classification project aimed at reducing customer churn for the Bank of Mavenland by identifying clients at high risk of leaving. This project uses data analysis and machine learning to create actionable insights for retention strategies.
 
@@ -30,5 +30,7 @@ A clustering project focused on segmenting the Bank of Mavenland’s customers i
 
 **Outcome**:
 The project successfully segmented customers into distinct clusters, enabling the bank to make data-driven decisions. Tailored recommendations for new products and services were provided, enhancing customer satisfaction and driving business growth.
+
+---
 
 
